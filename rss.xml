@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Photography]]></title>
         <description><![CDATA[Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/corey-cotnoir/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 19:10:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Dec 2015 19:12:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/corey-cotnoir/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome.]]></title>
             <description><![CDATA[<article><h1>Welcome.</h1><p>Welcome to my site.</p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/corey-cotnoir/welcome/index.html</link>
             <guid isPermaLink="false">86296fb1-f82a-4c6a-a394-93985e8ab92b</guid>
-            <pubDate>Fri, 04 Dec 2015 19:10:27 GMT</pubDate>
+            <pubDate>Fri, 04 Dec 2015 19:12:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
