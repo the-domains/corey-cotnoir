@@ -1,7 +1,7 @@
 name: Corey Cotnoir
 favicon: null
-layout_spectrum: 0.6999432996381074
-typography_spectrum: 0.9961328911595047
+layout_spectrum: 1
+typography_spectrum: 0.48029
 title: Photography
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.3738935752771795
-  lightness: 0.29860039497725666
-  saturation: 0.40823195641860366
-  rhythmicContrast: 0.4577913610264659
+    - '#fefefe'
+    - '#0b0c07'
+    - '#686762'
+    - '#c4c9cc'
+    - '#818c84'
+  brandStrength: 0.6875
+  lightness: 0.375
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
